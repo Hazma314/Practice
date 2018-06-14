@@ -29,6 +29,7 @@ li  {
 
 h1  {
     color: red;
+    text-shadow: 3px 2px dimgray;
 }
 
 h2  {
